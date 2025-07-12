@@ -1,4 +1,4 @@
-# Proyek UAS Basis Data - Aplikasi Manajemen Hotel
+# Proyek Basis Data - Aplikasi Manajemen Hotel
 Proyek ini adalah aplikasi **manajemen hotel** sederhana yang dibuat untuk menambah nilai pada mata kuliah Basis Data. Aplikasi ini memungkinkan pengguna untuk melakukan reservasi kamar hotel, mengelola data tamu, dan melihat riwayat transaksi.
 
 ## Fitur
@@ -30,11 +30,11 @@ Proyek ini adalah aplikasi **manajemen hotel** sederhana yang dibuat untuk menam
     pip install -r requirements.txt
     ```
 6.  **Jalankan aplikasi** dengan memilih salah satu dari dua file berikut:
-    * Untuk versi antarmuka baris perintah (CLI):
+    * Untuk versi CLI:
         ```bash
         python apl_hotel.py
         ```
-    * Untuk versi antarmuka pengguna grafis (GUI):
+    * Untuk versi GUI:
         ```bash
         python apl_hotel_with_gui.py
         ```
